@@ -5,14 +5,14 @@
       "first_name": "Sebastian",
       "last_name": "Eschweiler",
       "email": "sebastian@codingthesmartway.com",
-      "img": "images/image1.jpg"
+      "img": "../images/image1.jpg"
     },
     {
       "id": 2,
       "first_name": "Steve",
       "last_name": "Palmer",
       "email": "steve@codingthesmartway.com",
-      "img": "images/image1.jpg"
+      "img": "../images/image1.jpg"
 
     },
     {
@@ -20,7 +20,7 @@
       "first_name": "Ann",
       "last_name": "Smith",
       "email": "ann@codingthesmartway.com",
-      "img": "images/image1.jpg"
+      "img": "../images/image1.jpg"
     }
   ]
 }
